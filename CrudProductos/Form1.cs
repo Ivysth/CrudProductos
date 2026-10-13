@@ -17,7 +17,7 @@ namespace CrudProductos
     {
         // CAMBIA estos datos por los de tu MySQL.
         private readonly string cadenaConexion =
-            "Server=localhost;Database=laboratorio_crud;Uid=root;Pwd=0606FSA;";
+            "Server=localhost;Database=laboratorio_crud;Uid=root;Pwd=TU CONTRASEÑA;";
 
         public Form1()
         {
